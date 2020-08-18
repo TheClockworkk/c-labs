@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (3.7.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  3.7.cpp
+C:\Users\Тимур\source\repos\3.7\3.7\3.7.cpp(87,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\3.7\3.7\3.7.cpp(116,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\3.7\3.7\3.7.cpp(139,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\3.7\3.7\3.7.cpp(212,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\3.7\3.7\3.7.cpp(247,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\3.7\3.7\3.7.cpp(257,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\3.7\3.7\3.7.cpp(262,20): warning C4018: <: несоответствие типов со знаком и без знака
+  3.7.vcxproj -> C:\Users\Тимур\source\repos\3.7\Debug\3.8.exe

@@ -1,0 +1,5 @@
+1262 S047-18 Hitrow London Domodedowo Moscow 11 45 18 15
+2467 P916-13 Vnukovo Moscow San-Pablo Sevilia 22 00 09 00
+3980 H717-24 Wicomico Solsberry Taldykorgan Almaty 17 25 16 25
+4642 S019-17 Vaxjo Smoland Arlanda Stockholm 07 15 08 05
+5873 M908-13 Brandenburg Berlin Araxos Patras 14 20 15 50
