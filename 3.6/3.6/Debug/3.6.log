@@ -1,0 +1,5 @@
+﻿  3.6.cpp
+C:\Users\Тимур\source\repos\3.6\3.6\3.6.cpp(60,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Тимур\source\repos\3.6\3.6\3.6.cpp(67,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Тимур\source\repos\3.6\3.6\3.6.cpp(122,20): warning C4018: <: несоответствие типов со знаком и без знака
+  3.6.vcxproj -> C:\Users\Тимур\source\repos\3.6\Debug\3.6.exe
